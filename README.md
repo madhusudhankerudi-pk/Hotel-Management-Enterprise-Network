@@ -1,5 +1,5 @@
 # Hotel-Management-Enterprise-Network
-Enterprise Network Design using Cisco Packet Tracer
+
 Hotel Management Enterprise Network Design using Cisco Packet Tracer
 
 • Designed and implemented a scalable Hotel Management Enterprise Network connecting 3 floors, 10 VLANs, 3 routers, multiple switches, wireless access points, printers, and 30+ end devices to ensure secure and reliable communication.
